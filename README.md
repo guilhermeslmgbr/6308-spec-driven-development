@@ -69,3 +69,4 @@ npm run migrate
 - `POST /api/v1/auth/login`: Login
 - `GET /api/v1/cart`: Ver carrinho (Requer Auth Header `Authorization: Bearer <token>`)
 - `POST /api/v1/cart/items`: Adicionar item ao carrinho
+commit inicial
